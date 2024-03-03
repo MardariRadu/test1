@@ -12,5 +12,9 @@ public class Main {
         System.out.println("Возраст " + human3.age + ", вес " + human3.weight + ", город " + human3.address + ", профессия " +  human3.work + ", имя " + human3.name);
         Human human4 = new Human("Kostea", 37, "shynomontaj");
         System.out.println("Возраст " + human4.age + ", вес " + human4.weight + ", город " + human4.address + ", профессия " +  human4.work + ", имя " + human4.name);
+        System.out.println("radu");
+        System.out.println("Katea");
+        System.out.println("Alisa");
     }
+
 }
